@@ -1,5 +1,5 @@
 # Prismic + Next.js Minimal Starter
-
+I
 Want to quickly get started building your own project with [Prismic][prismic] and [Next.js][nextjs]? This project includes basic configurations and nothing else. The project includes one Rich Text Slice, a homepage, and a dynamic page.
 
 - **Demo**: [Open live demo][live-demo]
